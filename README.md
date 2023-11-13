@@ -8,7 +8,8 @@
 - 📫 How to reach me: https://www.linkedin.com/in/madhavtn, madhavtn1995@gmail.com
 
 __Tools and Technologies__
-[![AWS](https://raw.githubusercontent.com/andreasbm/readme/master/assets/aws.svg)](https://aws.amazon.com/)
+[![Azure](https://raw.githubusercontent.com/andreasbm/readme/master/assets/azure.svg)](https://azure.microsoft.com/)
+
 
 
 
