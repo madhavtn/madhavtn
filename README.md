@@ -7,6 +7,9 @@
 - 💬 Ask me about Big Data, Data Analysis
 - 📫 How to reach me: https://www.linkedin.com/in/madhavtn, madhavtn1995@gmail.com
 
+__Tools and Technologies__
+aws.amazon.com
+
 
   
   
